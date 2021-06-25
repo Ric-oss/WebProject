@@ -1,0 +1,28 @@
+.advsection{
+    padding: 0rem 0;
+    background-image: linear-gradient(to right, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('./advimg.jpg');
+    width: 100%;
+    height: 646px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .advsection__heading{
+    width: 70%;
+    color : white;
+    font-weight: 700;
+    line-height: 140%;
+    font-size: 1.8rem;
+    
+ padding-left: 3rem;
+    padding-top:12rem;
+  }
+  
+  .advbtn{
+      margin-left: 3rem;
+    border-radius: 5px;
+    color : white;
+    text-decoration: none;
+    background: #CB3854;
+  }
+  

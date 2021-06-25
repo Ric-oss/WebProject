@@ -1,0 +1,29 @@
+
+.welcome{
+    border-radius: 16px;
+    color : black;
+    margin: 10rem auto;
+    width: 40%;
+    height: 310px;
+    background-color: white;;
+    padding: 0 0 4rem 0;
+  }
+  .marginlarge{
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+  
+  .startwithleft{
+    text-align: left;
+    margin-top: 1rem;
+    margin-bottom: 0;
+  }
+  .welcome__info{
+    font-size: 1rem;
+  }
+  .goback{
+    border-style: none;
+    cursor: pointer;
+    background-color: white;
+    border-color: aliceblue;
+  }

@@ -1,0 +1,38 @@
+.faqsection{
+    padding: 4rem 0;
+  }
+  
+  .faq__heading{
+    color: #222222;;
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 4rem;
+  }
+  
+  .faqlist{
+      margin-top: 0;
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  .faq__item{
+    border-bottom: 1px solid #E6E6E6
+  }
+  
+  .faq__item > *{
+    width: 80%;
+  }
+  
+  .list__item--heading{
+    color : #222222;
+    font-size: 2rem;
+  }
+  .list__item--info{
+    color: #484848;
+    font-size: 1rem;
+  }
+  
+  .faqbtn{
+    color : #222222;
+  }
+  
